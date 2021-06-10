@@ -1,0 +1,43 @@
+﻿  自我成就系统.cpp
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(19,1): warning C4005: “TIMERR_NOERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\timeapi.h(37): message : 参见“TIMERR_NOERROR”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(20,1): warning C4005: “JOYERR_NOERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\joystickapi.h(38): message : 参见“JOYERR_NOERROR”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(83,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(84,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(290,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(388,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(439,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(495,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(684,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(748,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1800,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1803,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1806,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1809,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1812,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1814,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1816,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1894,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2565): message : 参见“HTERROR”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1896,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2074): message : 参见“PWR_FAIL”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\resource.h(1898,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2566): message : 参见“HTTRANSPARENT”的前一个定义
+C:\Users\admin\source\repos\自我成就系统\自我成就系统\自我成就系统.cpp(57,6): warning C4102: “start”: 未引用的标签
+  自我成就系统.vcxproj -> C:\Users\admin\source\repos\自我成就系统\Debug\自我成就系统.exe
